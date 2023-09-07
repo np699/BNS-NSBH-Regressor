@@ -7,7 +7,7 @@ For features, the data will encompass aspects like the false alarm rate (related
 The outcome or target data will capture the peak magnitude, which might fluctuate across filters. These filters, including G, R, and I, are pertinent to the ZTF (Zwicky Transient Facility) and also encompass u, y, z, K, H, and J.
 
 # Data
-Injection File: We have .dat files corresponding to O4 and O5. These files provide details about the masses and spins of BNS and NSBH events, along with their localization data (including longitude, latitude, and inclination angle) and distance. O4 denotes the current observing runs of the LIGO detector, whereas O5 represents projected future data.
+Injections File: We have .dat files corresponding to O4 and O5. These files provide details about the masses and spins of BNS and NSBH events, along with their localization data (including longitude, latitude, and inclination angle) and distance. O4 denotes the current observing runs of the LIGO detector, whereas O5 represents projected future data.
 
 Light Curves: This data consists of magnitudes, pass bands (u, g, r, i, y, z, H, K, and J), and corresponding simulation IDs. These IDs are consistent with those from the injections, ensuring that each event with specific mass and spin properties can be tracked.
 
