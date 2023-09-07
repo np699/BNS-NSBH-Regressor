@@ -1,7 +1,9 @@
 # Regressor
 
 The Random Forest regressor aims to predict the anticipated magnitude of kilonova events (BNS and NSBH) with an associated margin of error.
+
 For features, the data will encompass aspects like the false alarm rate (related to detector statistics), signal-to-noise ratio, area(90), distance, longitude, latitude, HasNS, HasRemnant, HasMassGap, and P-astro.
+
 The outcome or target data will capture the peak magnitude, which might fluctuate across filters. These filters, including G, R, and I, are pertinent to the ZTF (Zwicky Transient Facility) and also encompass u, y, z, K, H, and J.
 
 # Data
