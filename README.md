@@ -16,3 +16,6 @@ Runs: This pertains to the metadata for sky maps.
 ZTF Detection: The data here showcases the simulation ID and whether the event was detected by ZTF. A value of '0' indicates no detection, and '1' means it was detected.
 
 Event Characteristics: This section includes properties like HasNS, HasRemnant, and HasMassGap (with NS ranging between 3 and 5 solar masses). Essentially, this information provides insights into the likelihood of the merger, including a neutron star or a remnant that expels some form of matter.
+
+# LSTM Model predicts light curves without using mass ejecta
+# LSTM Model predicts light curves using mass ejecta
